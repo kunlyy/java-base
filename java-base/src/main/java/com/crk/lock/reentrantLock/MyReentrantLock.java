@@ -3,7 +3,7 @@ package com.crk.lock.reentrantLock;
 /**
  * Created by chenrongkun on 2018/5/17.
  */
-public class ReentrantLock {
+public class MyReentrantLock {
 	private boolean isLock = false;
 	private Thread lockBy;
 	private int lockCount = 0;

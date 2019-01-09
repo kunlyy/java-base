@@ -1,4 +1,4 @@
-package com.crk.lock.nonReentrantLock;
+package com.crk.lock.nonreentrantLock;
 
 /**
  * Created by chenrongkun on 2018/5/17.
