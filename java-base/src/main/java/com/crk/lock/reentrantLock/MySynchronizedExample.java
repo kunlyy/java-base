@@ -6,8 +6,9 @@ package com.crk.lock.reentrantLock;
 public class MySynchronizedExample {
 
     public synchronized void doSomething() {
-        System.out.println("methoe doSomething");
+        System.out.println("method doSomething");
     }
+
     public static void main(String[] args) {
         MySynchronizedExample example = new MySynchronizedExample();
         example.doSomething();
